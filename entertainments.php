@@ -29,8 +29,7 @@
 
     <section>
     <div class="container">
-    <div class="heading"><h3 id="C1">Magician & GAME Organiser</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">Magician & Game Organizer</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="C1">Magician & Game Organizer</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">Magicians will usually perform fun magic tricks. Birthday parties are the best that will excite and delight at your child's party making it one to be remembered for many years to come and we guarantee smiles, grins and laughter from start to finish. The look in their eyes when the magic is done is truly priceless! And the adults totally enjoy it too! Magic is an entertainment, an enjoyment and an escape and the magician provides them all in your birthday party .We provide services depending upon the number of hours you want the magician to perform.</p>
 </div>
 <div class="card-deck card-margin">
@@ -63,8 +62,7 @@
     <section>
           
     <div class="container">
-    <div class="heading"><h3 id="C3">Games</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">Games</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="C2">Games</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">These birthday party games will make your birthday party or the one you're hosting a hit. We provide easy birthday party games that are great for all ages and you can often add variations to make them work for adults or even younger children. They'd be great for family birthday parties. We organize games like bouncy , crazy bull ,trampoline ,bowling, balloon Shooting.</p>
 </div>
 <div class="card-deck card-margin">
@@ -141,8 +139,7 @@
     
     <section>
     <div class="container">
-    <div class="heading"><h3 id="C4">DJSound</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">DJSound</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="C3">DJSound</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">We are providing the best music from the 70s, 80s, 90s, 2000s with today's music! Don't spend more money than you have to! Let us help you find the best priced DJ for your Birthday Party by working with our large network of low cost entertainers offering cheap, affordable, discount pricing for those on a low or tight budget ! We'll provide everything you need to transform your venue into a party hotspot. We'll have everything setup before any of your guests arrive and we will pack down once the party is all finished.</p>
 </div>
 <div class="card-deck card-margin">

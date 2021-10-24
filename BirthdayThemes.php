@@ -33,12 +33,11 @@
     <section>
     
     <div class="container">
-    <div><h3 style="font-family: 'Merienda', cursive;">Themes</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="A1">Themes</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">Looking for a great or unique party theme? Look no further!
 Our goal is to make your party as easy and seamless as possible so you and your guests can focus on fun. We offer Many kinds of themes mostly 3D Themes , 2D Themes, Balloons Themes, Paper Themes. We have a gallery section for each of the themes to choose and look at our previous organized parties.
 </p>
     </div>
-    <div class="heading"><h3 id="A1">2DThemes</h3></div>
     <div><h3 style="font-family: 'Merienda', cursive;">2D Themes</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">We provide high quality 2D Themes for Birthday Party  for all birthday party needs.We provide a wide variety of unique 2D Themes including many popular designs. 2D Themes are an affordable alternative to 3DThemes. We have themes like Chota bheem , Mickey mouse , Super heroes, Barbie , etc which are suited for both boys and girls.</p>
 </div>
@@ -511,8 +510,7 @@ Our goal is to make your party as easy and seamless as possible so you and your 
 <section>
 
 <div class="container">
-<div class="heading"><h3 id="A2">3DThemes</h3></div>
-<div><h3 style="font-family: 'Merienda', cursive;">3D Themes</h3>
+<div><h3 style="font-family: 'Merienda', cursive;" id="A2">3D Themes</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">3D themes are ones which look most dynamic and realistic with all the characters or cartoons available with us. These themes look like a new place which makes the environment more real and alive. We have all kinds of Characters from which the birthday boy or girl will happily choose their favorite character among and the unique 3D themes to make your party more colourful and alluring that. And definitely this joy and experience will remain in the guest’s memory for a long time.</p>
 </div>
     <div class="card-deck card-margin">
@@ -730,8 +728,7 @@ Our goal is to make your party as easy and seamless as possible so you and your 
 <section>
 
 <div class="container">
-<div class="heading"><h3 id="A3">PaperThemes</h3></div>
-<div><h3 style="font-family: 'Merienda', cursive;">Paper Themes</h3>
+<div><h3 style="font-family: 'Merienda', cursive;"id="A3">Paper Themes</h3>
 <p style="font-family: 'PT Serif', serif; font-size:20px;">Our paper themes are created with the mission to leave every kid and family with beautiful memories.We can customize the theme as per customer requirements.They can create a beautiful color theme and symbolize friendliness to celebrate your birthday party.
 Paper themes are the best alternative for 3D and 2D themes and they come at a very affordable price.
 </p>

@@ -35,7 +35,7 @@
       He’s the founder and chief manager of Birthday Party Events and his managerial skills are known to be impeccable.</p>
       </div>
 
-    <div class="glassing responsive responsiveglass" style="font-family: 'Crete Round', serif;
+    <div class="glassing responsive responsiveglass conatainer" style="font-family: 'Crete Round', serif;
 font-family: 'Karma', serif;" >
     <h2 style="font-family: 'Crete Round', serif;" align="center">Contact Us</h2>
 

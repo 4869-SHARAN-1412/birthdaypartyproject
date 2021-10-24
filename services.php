@@ -35,8 +35,7 @@
     We always serve more than promised to our customers. We make sure the best is served in terms of quality and service that is the reason our customers repeat to take our services.
     </p>
    </div>
-    <div class="heading"><h3 id="B1">Characters</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">Characters</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="B1">Characters</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">Theme based live cartoon character who can greet and play with the children at your party. There's nothing like celebrating the most special day of the year with Party Characters For kids company. What could make your child's birthday more memorable than their favorite lookalike mascot turning up to their birthday party?Characters will also be present for cake cutting and handover the gift to the birthday child on request. We provide characters like Chota bheem, Clown, Ben 10, Micky, Minnie, Winnie, Chutki, Donald duck, Tiger, Doremon. Choose your child's favorite cartoon character and watch your child's face light up when they see them.</p>
 </div>
 <div class="card-deck card-margin">
@@ -115,8 +114,7 @@
     <section>
    
     <div class="container">
-    <div class="heading"><h3 id="B2">Bouncy</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">Bouncy</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="B2">Bouncy</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">If you want your child and their friends to be more joyful then you can surely do it by arranging the bouncy for them, for that you don’t need to worry we can arrange the bouncy for you according to your choice , we do provide many bouncies in different sizes and different cost. It’s both fun and safe for the children and gives you spare time to relax while your kids are busy having fun. 
 We are even organizing games and activities that can be played in bouncies, which make it more adventurous rather than just using it as a trampoline.
 </p>
@@ -179,8 +177,7 @@ We are even organizing games and activities that can be played in bouncies, whic
     <section>
     
     <div class="container">
-    <div class="heading"><h3 id="B3">Tattoos</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">Tattoos</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="B3">Tattoos</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">Kids Tattoos comprise temporary tattoos that are highly popular among the children and provide the possibility to be easily applied to the skin with moistened sponge or wet cloth. We provide tattoos on concepts of cartoons and family, either it can be a picture or name depending on the choice.Further, the use of only the best and safest of the ingredients in these children tattoos also makes these features sharp and attractive.</p>
 </div>
 <div class="card-deck card-margin">
@@ -211,8 +208,7 @@ We are even organizing games and activities that can be played in bouncies, whic
     <section>
     
     <div class="container">
-    <div class="heading"><h3 id="B4">NailArt</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">NailArt</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="B4">NailArt</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">This is something outside the box like nail art for kids birthday parties which most of the parents like to do for their kids. Nail art is a creative way to paint, decorate, enhance, and embellish the nails. Nail art for kids birthday parties is an inventive way of coloring, magnifying, garnishing and furnishing the nail. </p>
 </div>
 <div class="card-deck card-margin">
@@ -245,8 +241,7 @@ We are even organizing games and activities that can be played in bouncies, whic
     <section>
     
     <div class="container">
-    <div class="heading"><h3 id="B5">BallonTwisting</h3></div>
-    <div><h3 style="font-family: 'Merienda', cursive;">BalloonTwisting</h3>
+    <div><h3 style="font-family: 'Merienda', cursive;" id="B5">BalloonTwisting</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">Adding balloon twisting to your party will entertain your guests for hours. Our Balloon Twisters are experts not only in twisting and turning balloons into wonderful creations, they also know how to engage kids! .Your kids will be delighted when they see a normal balloon transform into some objects and make their faces joyfull.A balloon twisting party is a fantastic addition to any kids event as it is suitable for kids of all ages.</p>
 </div>
 <div class="card-deck card-margin">

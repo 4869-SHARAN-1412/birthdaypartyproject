@@ -99,6 +99,14 @@
   background: linear-gradient(to right, #e1eec3, #f05053);
 }
 
+.underline{
+  text-decoration-color:#fc7fa7;
+  text-decoration-line: underline;
+  text-decoration-style:double;
+  text-underline-offset: 5px;
+}
+
+
 .dropdown:hover > .dropdown-menu {
   display: block;
 }

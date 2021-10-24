@@ -31,7 +31,7 @@
     <div><h3 style="font-family: 'Merienda', cursive;">Appetizers</h3>
     <p style="font-family: 'PT Serif', serif; font-size:20px;">There's nothing quite like the glorious feeling of absolute control that comes with hosting a party. We provide some snacks which are fun, healthy and delicious that help in hunger remover at parties. Our catalogue has three super tasty items, namely popcorn, candy-floss and chocolate fountain.</p>
 </div>
-    <div class="heading"><h3 id="D1">Popcorn</h3></div>
+<div class="heading"><h3 id="D2">Popcorn</h3></div>
 <div class="card-deck card-margin">
   <div class="card">
     <div class="card-body">
