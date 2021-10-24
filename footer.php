@@ -13,6 +13,9 @@
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Uchen&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 
@@ -43,12 +46,13 @@
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v10.0" nonce="NpxgzpOk"></script>
-
-<div  style="width: 100%; background-color: lightblue; border-radius: 15px; padding: 5px; margin-right: 5px;">
+ 
+<div  style="border-radius: 15px; padding:5px; text-align:center; 
+-webkit-background-clip:text;  font-family: 'Uchen', serif;">
+<h3>Contact Us</h3>
             <a href="https://m.facebook.com/Birthday_party_events_in_hyd-115526439893602/" class="fa fa-facebook" target="_blank"> </a>
             <a href="https://twitter.com/Bhanupr7861?s=08" class="fa fa-twitter" target="_blank"></a>
             <a href="https://www.google.com/gmail/" class="fa fa-google" target="_blank"></a>
-            <a href="https://www.linkedin.com/in/birthday-party-organizer-4393181b5/" class="fa fa-linkedin" target="_blank"></a>
             <a href="https://www.instagram.com/birthdaypartydecorationsinhyd/" class="fa fa-instagram" target="_blank"></a>
             <a href="https://www.pinterest.com/bhanubhanuprakash0070024/" class="fa fa-pinterest" target="_blank"></a>
             <a href="https://www.youtube.com/channel/UCTECycdmz4OlhmhNTKZniEQ/featured" class="fa fa-youtube" target="_blank"></a>
@@ -68,16 +72,16 @@
               <div class="col-sm">
                 
                   <a href="BirthdayThemes.php"><i class="fas fa-angle-right"></i>&nbsp;Birthday Themes</a><br>
-                  <a href="2dThemes.php"><i class="fas fa-angle-right"></i>&nbsp;2D Themes</a><br>
-                  <a href="3dThemes.php"><i class="fas fa-angle-right"></i>&nbsp;3D Themes</a><br>
+                  <a href="BirthdayThemes.php#A1"><i class="fas fa-angle-right"></i>&nbsp;2D Themes</a><br>
+                  <a href="BirthdayThemes.php#A2"><i class="fas fa-angle-right"></i>&nbsp;3D Themes</a><br>
                   <a href="services.php"><i class="fas fa-angle-right"></i>&nbsp;All Services</a><br>
                 
               </div>
 
               <div class="col-sm">
 
-                  <a href="balloonThemes.php"><i class="fas fa-angle-right"></i>&nbsp;Balloon Themes</a><br>
-                  <a href="paperThemes.php"><i class="fas fa-angle-right"></i>&nbsp;Paper Themes</a><br>
+                  <a href="services.php#B5"><i class="fas fa-angle-right"></i>&nbsp;Balloon Themes</a><br>
+                  <a href="BirthdayThemes.php#A3"><i class="fas fa-angle-right"></i>&nbsp;Paper Themes</a><br>
                   <a href="entertainments.php"><i class="fas fa-angle-right"></i>&nbsp;Entertainment &nbsp;&nbsp;&nbsp;Services</a><br>
                   <a href="eatableitems.php"><i class="fas fa-angle-right"></i>&nbsp;Eatable Items</a><br>
                
@@ -136,7 +140,7 @@
           Reserved and Privacy
           Policy.<br>
           
-          <h5 style="font-size:20px;" onclick="this.innerHTML='SilvershadesCo.<br>sharanvellorev@gmail.com'">Know The Developer</h5>
+          <h5 style="font-size:20px;" onclick="this.innerHTML='SilverShadesCo.<br>sharanvellorev@gmail.com'">Know The Developer</h5>
           
           </div>
       </h6>

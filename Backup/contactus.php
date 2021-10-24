@@ -16,33 +16,7 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Crete+Round:ital@1&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Crete+Round:ital@1&family=Karma&display=swap" rel="stylesheet">
-    <style>
-    .glassing{
-      padding:20px;
-      width:50%;
-height:50%;
-margin:auto;
-margin-top:30px;
-margin-bottom:30px;
-border-radius:10px;
-      background: rgba( 0, 0, 0, 0.15 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-backdrop-filter: blur( 1.0px );
--webkit-backdrop-filter: blur( 1.0px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
-    }
-    @media (max-width: 430px) {
-      .responsive{
-        padding:20px;
-        position:relative;
-        margin:auto;
-height:50%;
-width:100%;
-      }
-      p{text-align:center;}
-    }
-    </style>
+   
 </head>
 
 <body style="padding-top: 100px;">

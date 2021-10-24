@@ -24,7 +24,7 @@
             class="d-inline-block align-top" alt="">
        
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+        <button class="navbar-toggler nav-button" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
           aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -41,9 +41,9 @@
                 Birthday Themes
               </a>
               <div class="dropdown-menu relay"  aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="2dThemes.php">2D Themes</a>
-                <a class="dropdown-item" href="3dThemes.php">3D Themes</a>
-                <a class="dropdown-item" href="paperThemes.php">Paper Themes</a>
+                <a class="dropdown-item" href="BirthdayThemes.php#A1">2D Themes</a>
+                <a class="dropdown-item" href="BirthdayThemes.php#A2">3D Themes</a>
+                <a class="dropdown-item" href="BirthdayThemes.php#A3">Paper Themes</a>
 
               </div>
             </li>
@@ -53,11 +53,11 @@
                 Services
               </a>
               <div class="dropdown-menu relay" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="characters.php">Characters</a>
-                <a class="dropdown-item" href="bouncy.php">Bouncy</a>
-                <a class="dropdown-item" href="tattoos.php">Tattoos</a>
-                <a class="dropdown-item" href="nailart.php">NailArt</a>
-                <a class="dropdown-item" href="balloontwisting.php">BallonTwisting</a>
+                <a class="dropdown-item" href="services.php#B1">Characters</a>
+                <a class="dropdown-item" href="services.php#B2">Bouncy</a>
+                <a class="dropdown-item" href="services.php#B3">Tattoos</a>
+                <a class="dropdown-item" href="services.php#B4">NailArt</a>
+                <a class="dropdown-item" href="services.php#B5">BallonTwisting</a>
                 <div class="dropdown-divider"></div>
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
                   aria-haspopup="true" aria-expanded="false">
@@ -65,10 +65,10 @@
                 </a>
                 <div class="dropdown-menu relay"
                   aria-labelledby="navbarDropdownMenuLink">
-                  <a class="dropdown-item" href="magician.php">Magician</a>
-                  <a class="dropdown-item" href="gameorganisier.php">Game Organisier</a>
-                  <a class="dropdown-item" href="games.php">Games</a>
-                  <a class="dropdown-item" href="djsound.php">DJSound</a>
+                  <a class="dropdown-item" href="entertainments.php#C1">Magician</a>
+                  <a class="dropdown-item" href="entertainments.php#C1">Game Organisier</a>
+                  <a class="dropdown-item" href="entertainments.php#C3">Games</a>
+                  <a class="dropdown-item" href="entertainments.php#C4">DJSound</a>
                 </div>
               </div>
             </li>
@@ -78,16 +78,13 @@
                 Eatable items
               </a>
               <div class="dropdown-menu relay" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="popcorn.php">Popcorn</a>
-                <a class="dropdown-item" href="sugarcandy.php">Sugar Candy</a>
-                <a class="dropdown-item" href="chocolatefountain.php">Chocolate Fountain</a>
+                <a class="dropdown-item" href="eatableitems.php#D1">Popcorn</a>
+                <a class="dropdown-item" href="eatableitems.php#D2">Sugar Candy</a>
+                <a class="dropdown-item" href="eatableitems.php#D3">Chocolate Fountain</a>
               </div>
             </li>
             <li class="nav-item badge badge-pill  btn-outline-warning size">
               <a class="nav-link" href="aboutus.php">About Us</a>
-            </li>
-            <li class="nav-item badge badge-pill  btn-outline-warning size">
-              <a class="nav-link" href="contactus.php">Contact Us</a>
             </li>
           </ul>
         </div>
